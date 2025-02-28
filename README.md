@@ -56,7 +56,17 @@
 |-----------------------------------|-----------------------------------|
 | ![Screenshot 2025-02-28 152300](https://github.com/user-attachments/assets/c951651e-0149-492b-9f36-19266fb1cc69) | ![Screenshot 2025-02-28 152449](https://github.com/user-attachments/assets/acc3a484-fc8b-4252-9421-cac1b2aba090) |
 
-> **Note:** Ensure your screenshots are stored in the correct folder and update paths accordingly.
+![Screenshot 2025-02-28 152115](https://github.com/user-attachments/assets/a7f62f6c-9b95-43ed-b3fa-f243c3f91f34)
+
+---
+
+![Screenshot 2025-02-28 151957](https://github.com/user-attachments/assets/97cd6906-e3f1-43c6-90ee-feb06809f5e8)
+
+---
+## MULTIPLE THEMES
+![Screenshot 2025-02-28 171315](https://github.com/user-attachments/assets/2fd03101-1f7c-47fe-9ce6-abc7c0f4255b)
+
+
 
 ---
 
