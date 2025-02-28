@@ -219,7 +219,4 @@ You’re free to modify, distribute, or use it for personal or commercial projec
 
 ### **Thank you for using the AI Resume Builder! 🚀**  
 If you have any questions or suggestions, feel free to open an issue or reach out.
-```
-
----
 
